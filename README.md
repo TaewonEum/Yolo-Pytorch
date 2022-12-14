@@ -43,3 +43,9 @@ data.yaml 파일에는 데이터셋의 경로 등 YOLO v5가 참고할 수 있�
 # yaml 파일 파싱하여 환경 정보 파이썬 객체로 저장
 
 ![image](https://user-images.githubusercontent.com/104436260/207488030-9990c534-e123-409f-85c5-6f3972319c9b.png)
+
+# Dataset EDA
+
+![image](https://user-images.githubusercontent.com/104436260/207502911-e0a4f702-f31e-4c22-ab7a-5b6d23829d5d.png)
+
+

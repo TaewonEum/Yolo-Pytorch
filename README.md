@@ -33,3 +33,9 @@ Format은 YOLO5-Pytorch로 설정하고 데이터 셋 다운로드
 data.yaml파일을 통해 데이터 셋의 환경 설정 파일을 수정.
 
 data.yaml 파일에는 데이터셋의 경로 등 YOLO v5가 참고할 수 있는 환경 설정 정보가 포함됨.
+
+![image](https://user-images.githubusercontent.com/104436260/207486983-672314ac-2ca8-4531-a3d0-20e489e42812.png)
+
+![image](https://user-images.githubusercontent.com/104436260/207487043-754ca425-0041-466c-b2f7-a0b51d9105dd.png)
+
+절대 경로 위와 같이 

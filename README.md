@@ -80,3 +80,9 @@ input Size=448x448x3
 9000개의 클래스를 분류할 수 있는 YOLO 9000을 제안함
 
 mAP(정확도)가 많이 향상됨
+
+K-means 클러스터링을 이용해 ground-truth box(실제 이미지에서 해당 객체의 정보를 나타낸 것)와 유사한 anchor box 학습한 뒤에 사용함.
+
+특정한 데이터 셋에 적합한 anchor box를 찿을 수 있기 때문에 성능이 많이 개선됨.
+
+더 적은 개수의 anchor box를 사용해도, 고정된 anchor box보다 더 좋은 성능을 보임.

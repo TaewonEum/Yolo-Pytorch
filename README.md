@@ -25,3 +25,5 @@
 2. https://public.roboflow.com/object-detection/oxford-pets
 
 3. https://public.roboflow.com/object-detection/raccoon
+
+Format은 YOLO5-Pytorch로 설정하고 데이터 셋 다운로드

@@ -52,4 +52,4 @@ data.yaml 파일에는 데이터셋의 경로 등 YOLO v5가 참고할 수 있�
 
 ![image](https://user-images.githubusercontent.com/104436260/207503093-93faca29-eaea-48e9-bca9-4aab52f4462a.png)
 
-
+![image](https://user-images.githubusercontent.com/104436260/207503197-46fefdac-9c45-439b-9038-d5767610426f.png)

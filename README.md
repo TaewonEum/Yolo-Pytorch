@@ -100,3 +100,11 @@ Darknet 53 아키텍처 사용
 Residual block 사용
 
 바운딩 박스 예측->logistic regression을 이용해 사물이 존재하는지 예측.
+
+# YOLO 4
+
+512x512 고해상도 이미지를 입력으로 받음
+
+CSPNet에서 제안된 아이디어를 적용함
+
+다양한 기술들을 YOLO 아키텍처에 적용하여 정확도를 높임

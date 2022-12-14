@@ -39,3 +39,7 @@ data.yaml 파일에는 데이터셋의 경로 등 YOLO v5가 참고할 수 있�
 ![image](https://user-images.githubusercontent.com/104436260/207487043-754ca425-0041-466c-b2f7-a0b51d9105dd.png)
 
 절대 경로 위와 같이 변경
+
+# yaml 파일 파싱하여 환경 정보 파이썬 객체로 저장
+
+![image](https://user-images.githubusercontent.com/104436260/207488030-9990c534-e123-409f-85c5-6f3972319c9b.png)

@@ -86,3 +86,9 @@ K-means 클러스터링을 이용해 ground-truth box(실제 이미지에서 해
 특정한 데이터 셋에 적합한 anchor box를 찿을 수 있기 때문에 성능이 많이 개선됨.
 
 더 적은 개수의 anchor box를 사용해도, 고정된 anchor box보다 더 좋은 성능을 보임.
+
+YOLO 2는 fully connected를 사용하지 않음
+
+하나의 그리드 셀마다 5개의 anchor box를 통해 예측을 수행함
+
+하나의 그리드 안에서 anchor box 별로 클래스 확률을 예측함

@@ -92,3 +92,11 @@ YOLO 2는 fully connected를 사용하지 않음
 하나의 그리드 셀마다 5개의 anchor box를 통해 예측을 수행함
 
 하나의 그리드 안에서 anchor box 별로 클래스 확률을 예측함
+
+# YOLO 3
+
+Darknet 53 아키텍처 사용
+
+Residual block 사용
+
+바운딩 박스 예측->logistic regression을 이용해 사물이 존재하는지 예측.

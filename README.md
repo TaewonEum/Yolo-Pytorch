@@ -48,4 +48,8 @@ data.yaml 파일에는 데이터셋의 경로 등 YOLO v5가 참고할 수 있�
 
 ![image](https://user-images.githubusercontent.com/104436260/207502911-e0a4f702-f31e-4c22-ab7a-5b6d23829d5d.png)
 
+# 바운딩박스 만들기
+
+![image](https://user-images.githubusercontent.com/104436260/207503093-93faca29-eaea-48e9-bca9-4aab52f4462a.png)
+
 

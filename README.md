@@ -18,3 +18,10 @@
 
 # 데이터 저장소
 
+3가지 dataset 모두 roboflow에서 제공하는 Dataset
+
+1. https://public.roboflow.com/object-detection/mask-wearing/1/download
+
+2. https://public.roboflow.com/object-detection/oxford-pets
+
+3. https://public.roboflow.com/object-detection/raccoon

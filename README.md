@@ -110,3 +110,16 @@ CSPNet에서 제안된 아이디어를 적용함
 다양한 기술들을 YOLO 아키텍처에 적용하여 정확도를 높임
 
 # 소스코드 다운하여 객체인식 진행하기
+
+YOLO v5로 진행
+Pytorch 기반 코드로 수행
+
+YOLO v5 Samll
+
+YOLO v5m Medium
+
+YOLO v5l Large
+
+YOLO v5x XLarge
+
+

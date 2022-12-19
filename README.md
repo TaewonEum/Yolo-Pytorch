@@ -139,5 +139,7 @@ YOLO v5x XLarge
 
 트레인 이미지 바운딩 박스 생성
 
+모자이크 기법을 사용하기 때문에 하나의 이미지에 4개의 이미지가 섞여서 학습됨
+
 ![image](https://user-images.githubusercontent.com/104436260/208360299-63c841a2-74a4-4579-ac12-a70274cc6505.png)
 

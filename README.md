@@ -148,3 +148,9 @@ YOLO v5x XLarge
 ![image](https://user-images.githubusercontent.com/104436260/208360639-f0e3b48a-1acf-4ef9-bfa9-db4d4f908ad1.png)
 
 전반적으로 마스크를 착용 유무 detecting함
+
+# Tensor board 시각화
+
+![image](https://user-images.githubusercontent.com/104436260/208361784-ae7b2cc8-692b-4214-8d6f-833077a11488.png)
+
+

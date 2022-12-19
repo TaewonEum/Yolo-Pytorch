@@ -135,4 +135,4 @@ YOLO v5x XLarge
 
 # 학습결과
 
-
+![image](https://user-images.githubusercontent.com/104436260/208359756-56ab8b36-8deb-49bb-9e05-c5d448a49b4c.png)

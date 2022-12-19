@@ -127,3 +127,8 @@ YOLO v5x XLarge
 ![image](https://user-images.githubusercontent.com/104436260/208354880-449c3bc1-1670-47c4-a0ce-bbf4425975f0.png)
 
 ![image](https://user-images.githubusercontent.com/104436260/208354050-1d5a5888-d4f8-499a-a363-97b9d3de09d4.png)
+
+
+# mask data training 진행
+
+![image](https://user-images.githubusercontent.com/104436260/208358366-5208ecb6-2022-4649-8254-7f54940e970d.png)

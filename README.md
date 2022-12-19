@@ -143,3 +143,8 @@ YOLO v5x XLarge
 
 ![image](https://user-images.githubusercontent.com/104436260/208360299-63c841a2-74a4-4579-ac12-a70274cc6505.png)
 
+# 테스트 예측 결과
+
+![image](https://user-images.githubusercontent.com/104436260/208360639-f0e3b48a-1acf-4ef9-bfa9-db4d4f908ad1.png)
+
+전반적으로 마스크를 착용 유무 detecting함

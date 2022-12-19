@@ -136,3 +136,8 @@ YOLO v5x XLarge
 # 학습결과
 
 ![image](https://user-images.githubusercontent.com/104436260/208359756-56ab8b36-8deb-49bb-9e05-c5d448a49b4c.png)
+
+트레인 이미지 바운딩 박스 생성
+
+![image](https://user-images.githubusercontent.com/104436260/208360299-63c841a2-74a4-4579-ac12-a70274cc6505.png)
+

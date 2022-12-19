@@ -124,4 +124,6 @@ YOLO v5x XLarge
 
 # 샘플 데이터 객체인식 진행
 
+![image](https://user-images.githubusercontent.com/104436260/208354880-449c3bc1-1670-47c4-a0ce-bbf4425975f0.png)
+
 ![image](https://user-images.githubusercontent.com/104436260/208354050-1d5a5888-d4f8-499a-a363-97b9d3de09d4.png)

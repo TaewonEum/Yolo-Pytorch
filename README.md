@@ -132,3 +132,7 @@ YOLO v5x XLarge
 # mask data training 진행
 
 ![image](https://user-images.githubusercontent.com/104436260/208358366-5208ecb6-2022-4649-8254-7f54940e970d.png)
+
+# 학습결과
+
+
